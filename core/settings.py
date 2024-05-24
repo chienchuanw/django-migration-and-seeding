@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django_seed",
     "admin_birpen",
+    "pengumuman",
 ]
 
 MIDDLEWARE = [
