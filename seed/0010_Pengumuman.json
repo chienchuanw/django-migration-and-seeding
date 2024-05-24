@@ -1,0 +1,96 @@
+[
+{
+    "model": "pengumuman.pengumuman",
+    "pk": 1,
+    "fields": {
+        "deleted": "2021-11-11T10:05:07.332Z",
+        "created_at": "2024-05-24T07:35:24.698Z",
+        "modified_at": "2009-12-01T04:58:21.948Z",
+        "tanggal_kelas": "2005-05-12T14:36:32.324Z",
+        "pembuat": 1,
+        "nama_mata_kuliah": 2,
+        "jenis_pengumuman": -1687,
+        "nama_dosen": "Effect bar save rather nice miss write red. Establish marriage attorney represent.\nFight white agree school road necessary. Whose child through under participant. Most eat court take religious bad often.",
+        "nama_asisten": "Outside nor wear factor science. Agency meeting course thus security idea thus thus.\nPush chair follow factor. Case next budget social scene per.\nBudget buy degree manager customer ten. Management team partner need black course.",
+        "nama_ruang": 2,
+        "nama_sesi": 1,
+        "nama_status_pengumuman": 1,
+        "komentar": "Piece soon memory democratic. Low away leg forward life. Relationship price eat east fly assume marriage hospital."
+    }
+},
+{
+    "model": "pengumuman.pengumuman",
+    "pk": 2,
+    "fields": {
+        "deleted": "1981-03-08T02:59:50.353Z",
+        "created_at": "2024-05-24T07:35:24.698Z",
+        "modified_at": "2008-05-26T23:39:00.573Z",
+        "tanggal_kelas": "2017-12-07T04:28:08.167Z",
+        "pembuat": 2,
+        "nama_mata_kuliah": 1,
+        "jenis_pengumuman": -28918,
+        "nama_dosen": "As decide environment experience. Go discuss movie option plan state threat. At pretty other protect.\nTest business picture goal friend. Term economy base watch eight sense.",
+        "nama_asisten": "Expert music rule management. Color building study account develop already.\nResult great teacher media. Try clear east lot security rock. Skin happy prove respond write.\nHand treatment open sing prevent main. Note cup second remain.",
+        "nama_ruang": 1,
+        "nama_sesi": 2,
+        "nama_status_pengumuman": 1,
+        "komentar": "One which sure action degree. Shake strong Congress west environmental end opportunity. Side new young candidate seem less."
+    }
+},
+{
+    "model": "pengumuman.matakuliah",
+    "pk": 1,
+    "fields": {
+        "nama": "Late whether apply ground increase campaign. Major me money both garden bill compare. Economic run leg eye.\nValue night each especially."
+    }
+},
+{
+    "model": "pengumuman.matakuliah",
+    "pk": 2,
+    "fields": {
+        "nama": "Within police start growth alone mother. Kind treatment other animal interest father.\nEither main house real eat talk true his.\nWhy action per state middle. Everyone western reason."
+    }
+},
+{
+    "model": "pengumuman.ruang",
+    "pk": 1,
+    "fields": {
+        "nama": "Necessary able perform financial for Congress. Wait money off certainly lead woman tell. Put back herself.\nDecade money above site from amount. Continue plant quickly learn certainly impact. Instead floor hotel card reflect market."
+    }
+},
+{
+    "model": "pengumuman.ruang",
+    "pk": 2,
+    "fields": {
+        "nama": "Member manager house maybe Democrat argue. Operation including account.\nGlass future phone base these want detail. City six mean. No eat around view attorney have politics."
+    }
+},
+{
+    "model": "pengumuman.sesi",
+    "pk": 1,
+    "fields": {
+        "nama": "About over five suffer break role. Interview ball benefit authority project certain.\nTwo land another plant take. Reduce finally class them last. Arm herself left eye fly play increase."
+    }
+},
+{
+    "model": "pengumuman.sesi",
+    "pk": 2,
+    "fields": {
+        "nama": "Exist data state pick.\nOk fish plan understand member. Notice can direction card parent we series exactly.\nHotel coach wonder total authority anyone. Daughter trip and. Claim break citizen require attorney girl."
+    }
+},
+{
+    "model": "pengumuman.statuspengumuman",
+    "pk": 1,
+    "fields": {
+        "nama": "Reflect list film red. Follow discover news international. These at base main value during away.\nLearn not strong church idea.\nThough popular event maybe. Own thus simple reach music maintain whole.\nCreate former drug. Blood concern keep."
+    }
+},
+{
+    "model": "pengumuman.statuspengumuman",
+    "pk": 2,
+    "fields": {
+        "nama": "Reveal east operation star big save issue. Throw interesting occur traditional show. Certainly early moment notice detail."
+    }
+}
+]
