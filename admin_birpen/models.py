@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Admin(models.Model):
-    username = models.CharField(max_length=150, unique=True)
+    username = models.CharField(max_length=50, unique=True)
 
 
 class Meta:
